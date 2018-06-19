@@ -3,6 +3,6 @@
 echo "abc";   
 
 $abc ="adad";
-echo $abc;
+echo $abc; 
 
 ?>
