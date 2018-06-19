@@ -1,6 +1,8 @@
 <?php
 
 echo "abc";   
-echo"est";
+
+$abc ="adad";
+echo $abc; 
 
 ?>
